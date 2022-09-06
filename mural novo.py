@@ -21,6 +21,6 @@ print('Gustavo Ferreira: Estarei em uma posição melhor na área e estarei lend
 print('Força para todos!')
 sleep(2)
 print('Fernando Torres: Realmente tive que aceitar o convite, bora codar galera!!!!!!!!!!!!!!!!')
-dormi ( 1 )
+dormir ( 1 )
 print ("Robson Costa - A Engenharia  que me Aguarde !!!!" )
 sleep(2)
